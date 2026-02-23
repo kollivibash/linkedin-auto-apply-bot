@@ -1,0 +1,8 @@
+playwright
+sqlalchemy
+aiosqlite
+fastapi
+uvicorn
+pyyaml
+python-dotenv
+openai
